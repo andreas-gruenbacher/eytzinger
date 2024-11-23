@@ -1,0 +1,8 @@
+/.gdb_history
+/test_iterators
+/test_eq
+/test_lt
+/test_le
+/test_ge
+/test_gt
+*.o
